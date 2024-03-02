@@ -12,6 +12,7 @@ My expertise also encompasses cloud computing, particularly with Amazon Web Serv
 
 Throughout my career, I have demonstrated a commitment to staying abreast of emerging technologies and industry best practices. This continuous learning mindset has enabled me to adapt to evolving tech landscapes, ensuring that the solutions I deliver are at the forefront of innovation.
 
+![601014116770475 6068beff4640a](https://github.com/shwetavachhani/shwetavachhani/assets/40855339/4ac374f0-c16c-4ec4-b91f-e66fc5dee46a)
 
 <!--
 **shwetavachhani/shwetavachhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
