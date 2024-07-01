@@ -4,7 +4,7 @@ Glad to see you here 👋
 
 I am a Full Stack Developer with a comprehensive skill set that spans both front-end and back-end development. My journey in the world of technology has equipped me with extensive expertise in crafting seamless and user-friendly web applications.
 
-On the front-end, I excel in creating engaging user interfaces using cutting-edge technologies such as HTML5, CSS3,Bootstrap and JavaScript. My commitment to delivering an exceptional user experience is evident in my meticulous attention to design principles, responsiveness, and performance optimization.
+On the front-end, I excel in creating engaging user interfaces using cutting-edge technologies such as Typescript,JavaScript,HTML5, CSS3 and Bootstrap. My commitment to delivering an exceptional user experience is evident in my meticulous attention to design principles, responsiveness, and performance optimization.
 
 In the realm of back-end development, I am proficient in building robust server-side applications using languages such as Python, PHP, and Node.js. My experience extends to designing and implementing RESTful APIs, database management, and server deployment strategies. 
 
