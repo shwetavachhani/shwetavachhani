@@ -14,6 +14,14 @@ Throughout my career, I have demonstrated a commitment to staying abreast of eme
 
 ![601014116770475 6068beff4640a](https://github.com/shwetavachhani/shwetavachhani/assets/40855339/4ac374f0-c16c-4ec4-b91f-e66fc5dee46a)
 
+
+| Title        | Description    | 
+| ------------- |:-------------:| 
+| Nature palette- Geospatial Feature Integration | Spatial referencing tool added to the Nature's Palette platform using JavaScript and MongoDB | 
+| Data-Visualization      | Visual Data Insights to discover opportunities for optimizing the landscaping company with Python through NumPy and Seaborn. |  
+
+
+
 <!--
 **shwetavachhani/shwetavachhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
