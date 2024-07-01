@@ -14,6 +14,7 @@ Throughout my career, I have demonstrated a commitment to staying abreast of eme
 
 ![601014116770475 6068beff4640a](https://github.com/shwetavachhani/shwetavachhani/assets/40855339/4ac374f0-c16c-4ec4-b91f-e66fc5dee46a)
 
+## Projects
 
 | Title        | Description    | 
 | ------------- |:-------------:| 
