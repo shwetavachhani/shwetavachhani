@@ -21,6 +21,7 @@ Throughout my career, I have demonstrated a commitment to staying abreast of eme
 | Nature palette- Geospatial Feature Integration | Spatial referencing tool added to the Nature's Palette platform using JavaScript and MongoDB | 
 | Data-Visualization      | Visual Data Insights to discover opportunities for optimizing the landscaping company with Python through NumPy and Seaborn. |  
 | Chess-master | The project involves creating a simple chess AI using move generation, board evaluation, minimax algorithm, and alpha-beta pruning. It utilizes libraries like chess.js and chessboard.js to generate and visualize legal moves, then applies the minimax algorithm for move tree exploration and optimization. An improved evaluation function enhances the AI's playing strength. The AI is concise, with potential for further optimization. For more details, visit the guide,[https://www.freecodecamp.org/news/simple-chess-ai-step-by-step-1d55a9266977].|
+| [En README](README.md) |
 
 
 
