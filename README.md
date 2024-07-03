@@ -20,6 +20,7 @@ Throughout my career, I have demonstrated a commitment to staying abreast of eme
 | ------------- |:-------------:| 
 | Nature palette- Geospatial Feature Integration | Spatial referencing tool added to the Nature's Palette platform using JavaScript and MongoDB | 
 | Data-Visualization      | Visual Data Insights to discover opportunities for optimizing the landscaping company with Python through NumPy and Seaborn. |  
+| Chess-master | |
 
 
 
